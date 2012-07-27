@@ -18,3 +18,5 @@
 
 database.yml
 Gemfile.lock
+
+*.gem
