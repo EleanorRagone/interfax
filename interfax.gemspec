@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'interfax'
+  s.name        = 'interfax-rest'
   s.version     = '0.0.0'
   s.date        = '2012-07-27'
   s.summary     = ''
@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
   s.homepage    =
     'http://www.github.com/pcragone/interfax'
   s.add_dependency "rest-client", '1.6.7'
+  s.add_dependency "json", "1.7.4"
 end
